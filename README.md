@@ -69,5 +69,5 @@ Puedes ver el código completo aquí:
 ## 👨‍💻 Autor
 
 Álvaro Losada – Estudiante en 42 Madrid  
-Contacto profesional y comunidad de jóvenes ingenieros: [Ingeniando en LinkedIn](https://www.linkedin.com/company/ingeniando)
-
+Contacto profesional y comunidad de jóvenes ingenieros:  
+🔗 [Ingeniando en LinkedIn](https://www.linkedin.com/company/ingeniando-comunidad-para-ingenieros-podcast/)
